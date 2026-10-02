@@ -14,9 +14,11 @@ A adaptação cobre as falas e suas legendas. A interface, os nomes de itens e o
 
 ## Download
 
-[Baixar Villager News PT-BR para Java — 1.3.6](./Villager-News-PTBR-Java-1.3.6.jar)
+[Baixar Villager News PT-BR para Java — 1.3.6](https://github.com/2314djdss/villager-news-ptbr-java/releases/tag/Test)
 
-Se o GitHub abrir a página do arquivo, use **Download raw file** para salvar o JAR.
+Na página da release, abra **Assets** e baixe o arquivo `.jar`. Os arquivos **Source code (zip)** e **Source code (tar.gz)** não são o mod instalável.
+
+O mod é distribuído pelas Releases do GitHub; o JAR não precisa ficar na raiz do repositório.
 
 ## Requisitos
 

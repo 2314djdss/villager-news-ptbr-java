@@ -1,72 +1,141 @@
-# Villager News PT-BR — Java Edition
+<div align="center">
 
-As falas de Villager News em português brasileiro, agora na versão Java do Minecraft! Esta adaptação reúne a dublagem e as legendas do pacote **VillagerNews PTBR @Guihjzzz** no mod **Villager News Addon Port 1.3.6**.
+# 🟩 Villager News PT-BR
 
-## O que está incluído
+### As vozes da vila, agora em português brasileiro.
 
-- **2.212 arquivos de voz** importados do pacote PT-BR.
-- **3.741 linhas de legendas** em português, associadas às falas correspondentes.
-- Tempos dos diálogos ajustados à duração dos áudios da dublagem.
-- Tempos de animação e legendas ajustados proporcionalmente; a sincronia labial é aproximada.
-- Código Java, modelos, texturas e dependências preservados em relação ao mod base.
+**Java Edition · Dublagem + Legendas · Versão 1.3.6**
 
-A adaptação cobre as falas e suas legendas. A interface, os nomes de itens e o manual permanecem no idioma original.
+[⬇️ **BAIXAR O MOD**](https://github.com/2314djdss/villager-news-ptbr-java/releases/tag/Test) · [Instalação](#-instalação) · [Requisitos](#-requisitos) · [Créditos](#-créditos)
 
-## Download
+---
 
-[Baixar Villager News PT-BR para Java — 1.3.6](https://github.com/2314djdss/villager-news-ptbr-java/releases/tag/Test)
+**🎙️ 2.212 arquivos de voz** &nbsp; • &nbsp; **💬 3.741 linhas de legendas** &nbsp; • &nbsp; **🇧🇷 Português brasileiro**
 
-Na página da release, abra **Assets** e baixe o arquivo `.jar`. Os arquivos **Source code (zip)** e **Source code (tar.gz)** não são o mod instalável.
+</div>
 
-O mod é distribuído pelas Releases do GitHub; o JAR não precisa ficar na raiz do repositório.
+Uma adaptação do **Villager News Addon Port 1.3.6** que traz para o Minecraft Java a dublagem e as legendas do pacote **VillagerNews PTBR @Guihjzzz**. As reações e conversas dos villagers ganham vozes em português, com os tempos dos diálogos ajustados à dublagem.
 
-## Requisitos
+## ✨ O que você vai encontrar
 
-Requisitos declarados pelo mod original, mantidos nesta adaptação:
+| | Nesta versão |
+| :---: | --- |
+| 🎙️ | **Dublagem PT-BR** — 2.212 arquivos de voz importados do pacote em português. |
+| 💬 | **Legendas em português** — 3.741 linhas associadas às falas correspondentes. |
+| ⏱️ | **Tempos ajustados** — duração dos diálogos adaptada aos áudios, com tempos de animação e legendas ajustados proporcionalmente. |
+| 🧩 | **Base preservada** — código Java, modelos, texturas e dependências mantidos em relação ao mod original. |
 
-| Componente | Versão exigida |
+> [!NOTE]
+> A tradução cobre as **falas e suas legendas**. A interface, os nomes de itens e o manual permanecem no idioma original. A sincronia labial é aproximada.
+
+## 📥 Download
+
+### [⬇️ Baixar Villager News PT-BR — Java Edition 1.3.6](https://github.com/2314djdss/villager-news-ptbr-java/releases/tag/Test)
+
+Na página da release, abra **Assets** e baixe:
+
+```text
+Villager-News-PTBR-Java-1.3.6.jar
+```
+
+O arquivo do mod fica nas **Releases** do GitHub.
+
+> [!TIP]
+> Escolha o arquivo **`.jar`**. Os downloads **Source code (zip)** e **Source code (tar.gz)** não são o mod instalável.
+
+## 🚀 Instalação
+
+1. **Feche o Minecraft.**
+2. **Abra a pasta `mods`** da instalação ou instância do seu launcher.
+3. **Guarde a versão anterior como backup**, retirando o JAR antigo do Villager News da pasta `mods`.
+4. **Coloque o novo JAR** `Villager-News-PTBR-Java-1.3.6.jar` nessa pasta.
+5. **Inicie pelo perfil Fabric**, com as dependências abaixo instaladas.
+
+> [!IMPORTANT]
+> Deixe **apenas uma versão do Villager News** na pasta `mods`. Este JAR já inclui o mod, a dublagem e as legendas; não é necessário instalar o `.mcaddon`.
+
+## 🧩 Requisitos
+
+Requisitos declarados no manifesto do mod original e preservados nesta adaptação:
+
+| Componente | Versão |
 | --- | --- |
-| Minecraft Java Edition | `~26.3` (conforme o manifesto do mod) |
-| Java | 25 ou superior |
-| Fabric Loader | 0.19.5 ou superior |
-| Fabric API | Obrigatório; use uma versão compatível com seu Minecraft |
-| Entity Model Features (EMF) | 3.3.5 ou superior |
-| Entity Texture Features (ETF) | 7.2.1 ou superior |
-| Entity Sound Features (ESF) | 0.8.2 ou superior |
+| **Minecraft Java Edition** | `~26.3` — conforme o manifesto do mod |
+| **Java** | `25` ou superior |
+| **Fabric Loader** | `0.19.5` ou superior |
+| **Fabric API** | Versão compatível com seu Minecraft |
+| **Entity Model Features · EMF** | `3.3.5` ou superior |
+| **Entity Texture Features · ETF** | `7.2.1` ou superior |
+| **Entity Sound Features · ESF** | `0.8.2` ou superior |
 
-Use a mesma instalação e as mesmas dependências em que o mod base funciona. Esta adaptação não altera a compatibilidade declarada pelo original.
+Use a mesma instalação e as mesmas dependências em que o mod base funciona. Esta adaptação mantém a compatibilidade declarada pelo original.
 
-## Como instalar
+## ❓ Dúvidas rápidas
 
-1. Feche o Minecraft.
-2. Abra a pasta `mods` da sua instalação ou instância do launcher.
-3. Retire o JAR anterior do Villager News dessa pasta e guarde-o como backup.
-4. Coloque `Villager-News-PTBR-Java-1.3.6.jar` na pasta `mods`.
-5. Mantenha as dependências instaladas e inicie o jogo pelo perfil Fabric.
+<details>
+<summary><strong>Preciso instalar o pacote Bedrock (.mcaddon)?</strong></summary>
 
-**Deixe apenas uma versão do Villager News na pasta `mods`.** Este JAR já inclui o mod, a dublagem e as legendas; não é necessário instalar o `.mcaddon`.
+Não. As falas e as legendas já estão incorporadas ao JAR para Java Edition.
 
-As legendas de diálogo foram incluídas em `pt_br` e no idioma de fallback `en_us` do mod. Se não aparecerem, confira se a exibição de legendas está habilitada nas configurações usadas no jogo/mod.
+</details>
 
-## Estado dos testes
+<details>
+<summary><strong>Posso manter o mod antigo junto com este?</strong></summary>
 
-**Funcionamento confirmado em jogo pelo usuário que solicitou a adaptação.** A configuração completa desse teste não foi registrada, portanto isso não representa validação em todas as versões ou combinações de mods.
+Não. Substitua a versão anterior e deixe apenas um JAR do Villager News na pasta `mods`. Guarde o backup fora dessa pasta.
 
-Também foram verificados:
+</details>
 
-- Integridade do arquivo JAR e validade dos arquivos JSON.
+<details>
+<summary><strong>As legendas não aparecem. O que conferir?</strong></summary>
+
+Confira se a exibição de legendas está habilitada nas configurações usadas no jogo/mod. Os textos em português foram incluídos em `pt_br` e no idioma de fallback `en_us` do mod.
+
+</details>
+
+<details>
+<summary><strong>O mod inteiro está traduzido?</strong></summary>
+
+Esta versão adapta a dublagem e as legendas de diálogo. A interface, os nomes de itens e o manual continuam no idioma original.
+
+</details>
+
+## ✅ Validação
+
+**Funcionamento confirmado em jogo pelo responsável que solicitou a adaptação.** A configuração completa desse teste não foi registrada; a confirmação não abrange todas as versões e combinações de mods.
+
+<details>
+<summary><strong>Verificações realizadas nos arquivos</strong></summary>
+
+- Integridade do JAR e validade dos arquivos JSON.
 - Correspondência das legendas com as 2.212 variantes de diálogo.
 - Preservação de todas as classes Java do mod original.
 - Correspondência dos áudios com os arquivos do pacote PT-BR fornecido.
 
-## Créditos
+</details>
 
-- **Oreville Studios Ltd** e **Element Animation** — autores creditados pelo mod original.
-- **marcy** — montagem do port para Java, conforme os créditos do mod.
-- **GUIZZ MODS / GUIZZ DUBLAGEM — @Guihjzzz** — pacote PT-BR utilizado como fonte da dublagem e das legendas.
+## 🤝 Créditos
 
-Este é um projeto de adaptação comunitária, sem vínculo oficial declarado com os autores originais.
+| Contribuição | Créditos |
+| --- | --- |
+| **Projeto original** | Oreville Studios Ltd e Element Animation |
+| **Port para Java** | marcy, conforme os créditos do mod |
+| **Pacote PT-BR · dublagem e legendas** | GUIZZ MODS / GUIZZ DUBLAGEM — **@Guihjzzz** |
 
-## Direitos e distribuição
+Adaptação comunitária, sem vínculo oficial declarado com os autores originais.
 
-O mod original declara a licença **All Rights Reserved**. Esta adaptação não concede uma nova licença sobre o código, os áudios ou os demais recursos de terceiros. A publicação e a redistribuição desses arquivos dependem das permissões dos respectivos titulares; este README não comprova essa autorização.
+### Direitos e distribuição
+
+O mod original declara **All Rights Reserved**. Esta adaptação não concede uma nova licença sobre código, áudios ou recursos de terceiros. A publicação e a redistribuição dependem das permissões dos respectivos titulares; este README não comprova essa autorização.
+
+---
+
+<div align="center">
+
+**Villager News PT-BR · Java Edition**
+
+Feito para ouvir as histórias da vila em português. 🇧🇷
+
+[Voltar ao topo](#-villager-news-pt-br)
+
+</div>
